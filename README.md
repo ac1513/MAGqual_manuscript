@@ -1,2 +1,1 @@
-# MAGqual_manuscript
-Files to be shared for the MAGqual manuscript
+# Github Pages for ac1513
